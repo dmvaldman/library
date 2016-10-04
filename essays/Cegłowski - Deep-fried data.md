@@ -1,3 +1,5 @@
+(Taken from [http://idlewords.com/talks/deep_fried_data.htm](http://idlewords.com/talks/deep_fried_data.htm) on 10/3/16)
+
 I run a small web archive for about twenty thousand people. Being invited to speak at the Library of Congress is like being a kid who glues paper fins to a cardboard tube and then gets asked to talk to NASA about rocket propulsion. As every speaker has correctly said, it is a signal honor to be here.
 
 It also feels strange to be speaking in D.C., at the seat of government. In most of the talks I give, the U.S. government is an adversary.
