@@ -16,7 +16,7 @@ Computer Science
 - Rich Hickey - [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - Bret Victor - [Inventing on Principle](https://vimeo.com/36579366)
 - Jim Weiricc - [Functional Programming](https://www.youtube.com/watch?v=FITJMJjASUs)
-- Bartosz Milewski - [Categorty theory for Programmers](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM)
+- Bartosz Milewski - [Category theory for Programmers](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 Social
 
